@@ -1,0 +1,27 @@
+.whitef{
+	color: white;
+}
+.redf{
+	color: #efc6c6;
+}
+.orangef{
+	color: #efdac6;
+}
+.yellowf{
+	color: #efefc6;
+}
+.greenf{
+	color: #cdefc6;
+}
+.bluef{
+	color: #c6dbef;
+}
+.purplef{
+	color: #d7c6ef;
+}
+.pinkf{
+	color: #f2dae9;
+}
+body{
+	background-image: url("media/rain.jpg");
+}
