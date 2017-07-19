@@ -25,3 +25,6 @@
 body{
 	background-image: url("media/rain.jpg");
 }
+p, h1{
+    line-height: 2px;
+}
