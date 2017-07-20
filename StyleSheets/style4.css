@@ -1,0 +1,56 @@
+/*Here's the font colors*/
+	.whitef{
+		color: white;
+	}
+	.redf{
+		color: #efc6c6;
+	}
+	.orangef{
+		color: #efdac6;
+	}
+	.yellowf{
+		color: #efefc6;
+	}
+	.greenf{
+		color: #cdefc6;
+	}
+	.bluef{
+		color: #c6dbef;
+	}
+	.purplef{
+		color: #d7c6ef;
+	}
+	.pinkf{
+		color: #f2dae9;
+	}
+/*Body modification*/
+	body {
+		background-image: url("../media/taxi.jpg");
+	}
+	p, h1{
+		line-height: 2px;
+	}
+/*Nav modification*/
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #c6dbef;
+	}
+
+	li {
+		float: left;
+	}
+
+	li a {
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+
+	li a:hover {
+		background-color: #111;
+	}
